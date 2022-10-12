@@ -1,5 +1,3 @@
-import { isEmpty } from "lodash";
-
 const time = 1500;
 
 Cypress.Commands.add('visitUrl', () => {

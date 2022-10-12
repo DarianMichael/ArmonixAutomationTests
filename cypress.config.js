@@ -18,7 +18,14 @@ const createEsbuildPlugin =
 // }
 
 module.exports = defineConfig({
+  defaultCommandTimeout: 30000,
+  pageLoadTimeout: 30000,
+  chromeWebSecurity: false,
+  retries: 1,
+  requestTimeout: 20000,
+  responseTimeout: 20000,
   e2e: {
+    experimentalSessionAndOrigin: true,
     async setupNodeEvents(on, config) {
       const bundler = createBundler({
         plugins: [createEsbuildPlugin(config)],
@@ -31,6 +38,5 @@ module.exports = defineConfig({
     },
     specPattern: "cypress/e2e/features/*.feature",
     baseUrl: "https://pruebas.redsaludsa.com/aplicaciones/consultas360/#/login",
-    chromeWebSecurity: false,
   },
 });
