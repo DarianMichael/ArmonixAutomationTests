@@ -1,9 +1,12 @@
 {
   "devDependencies": {
-    "cypress": "^10.7.0",
+    "@badeball/cypress-cucumber-preprocessor": "^12.2.0",
+    "@bahmutov/cy-api": "^2.2.1",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.1.5",
+    "cypress": "^10.10.0",
     "cypress-plugin-tab": "^1.0.5",
     "cypress-xpath": "^2.0.1",
-    "esbuild": "^0.15.7",
+    "esbuild": "^0.14.54",
     "multiple-cucumber-html-reporter": "^2.0.0"
   },
   "name": "e2eautomation",
@@ -11,8 +14,6 @@
   "description": "Automation of armonix flows",
   "main": "index.js",
   "dependencies": {
-    "@badeball/cypress-cucumber-preprocessor": "^12.2.0",
-    "@bahmutov/cypress-esbuild-preprocessor": "^2.1.3",
     "aggregate-error": "^3.1.0",
     "ansi-colors": "^4.1.3",
     "ansi-escapes": "^4.3.2",
@@ -126,6 +127,7 @@
     "pend": "^1.2.0",
     "performance-now": "^2.1.0",
     "pify": "^2.3.0",
+    "popper.js": "^1.16.1",
     "pretty-bytes": "^5.6.0",
     "proxy-from-env": "^1.0.0",
     "psl": "^1.9.0",
@@ -169,7 +171,8 @@
   },
   "scripts": {
     "test": "test",
-    "cypress:open": "cypress open"
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run --browser chrome"
   },
   "keywords": [
     "E2E"
@@ -178,6 +181,6 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/DarianMichael/Cypress_Test_Saludsa_Armonix.git"
+    "url": "https://github.com/DarianMichael/ArmonixAutomationTests.git"
   }
 }

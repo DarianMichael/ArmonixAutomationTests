@@ -1,2 +1,6 @@
 1.-npm install cypress --save-dev --> Instalación
 2.-npm install -g npx --> 
+3.-npm i -D cypress @bahmutov/cypress-esbuild-preprocessor esbuild
+4.-npm install @badeball/cypress-cucumber-preprocessor --save-dev
+5.-npm install multiple-cucumber-html-reporter
+6.-node .\cucumber-html-report.js

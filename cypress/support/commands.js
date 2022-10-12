@@ -25,3 +25,6 @@
 // Cypress.Commands.overwrite('visit', (originalFn, url, options) => { ... })
 import './login'
 import './transactions'
+import './queries'
+import './services'
+

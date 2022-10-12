@@ -1,0 +1,624 @@
+[
+  {
+    "description": "    Funcionalidad del cambio del precio del contrato según sus características.",
+    "elements": [
+      {
+        "description": "",
+        "id": "cambio-precio-contrato;cuando-se-le-cambia-el-precio-al-contrato;;2",
+        "keyword": "Scenario Outline",
+        "line": 11,
+        "name": "Cuando se le cambia el precio al contrato",
+        "steps": [
+          {
+            "keyword": "Given ",
+            "line": 6,
+            "name": "Un usuario se loggea en Armonix \"efvelasquez\"\"3fv3l@as2021\"",
+            "result": {
+              "duration": 11887000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 7,
+            "name": "Un usuario abre el catalogo Transacciones y busca por el numero de contrato \"80012163\"",
+            "result": {
+              "duration": 10691000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "Then ",
+            "line": 8,
+            "name": "Un usuario procede al cambio del precio del contrato segun los requerimientos \"80012163\"",
+            "result": {
+              "duration": 38834000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "cambio-precio-contrato;cuando-se-le-cambia-el-precio-al-contrato;;3",
+        "keyword": "Scenario Outline",
+        "line": 12,
+        "name": "Cuando se le cambia el precio al contrato",
+        "steps": [
+          {
+            "keyword": "Given ",
+            "line": 6,
+            "name": "Un usuario se loggea en Armonix \"efvelasquez\"\"3fv3l@as2021\"",
+            "result": {
+              "duration": 34000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 7,
+            "name": "Un usuario abre el catalogo Transacciones y busca por el numero de contrato \"81701\"",
+            "result": {
+              "duration": 10552000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "Then ",
+            "line": 8,
+            "name": "Un usuario procede al cambio del precio del contrato segun los requerimientos \"81701\"",
+            "result": {
+              "duration": 17050000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "cambio-precio-contrato;cuando-se-le-cambia-el-precio-al-contrato;;4",
+        "keyword": "Scenario Outline",
+        "line": 13,
+        "name": "Cuando se le cambia el precio al contrato",
+        "steps": [
+          {
+            "keyword": "Given ",
+            "line": 6,
+            "name": "Un usuario se loggea en Armonix \"efvelasquez\"\"3fv3l@as2021\"",
+            "result": {
+              "duration": 27000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 7,
+            "name": "Un usuario abre el catalogo Transacciones y busca por el numero de contrato \"4041609\"",
+            "result": {
+              "duration": 10774000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "Then ",
+            "line": 8,
+            "name": "Un usuario procede al cambio del precio del contrato segun los requerimientos \"4041609\"",
+            "result": {
+              "duration": 38578000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "cambio-precio-contrato;cuando-se-le-cambia-el-precio-al-contrato;;5",
+        "keyword": "Scenario Outline",
+        "line": 14,
+        "name": "Cuando se le cambia el precio al contrato",
+        "steps": [
+          {
+            "keyword": "Given ",
+            "line": 6,
+            "name": "Un usuario se loggea en Armonix \"efvelasquez\"\"3fv3l@as2021\"",
+            "result": {
+              "duration": 37000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 7,
+            "name": "Un usuario abre el catalogo Transacciones y busca por el numero de contrato \"496885\"",
+            "result": {
+              "duration": 10502000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "Then ",
+            "line": 8,
+            "name": "Un usuario procede al cambio del precio del contrato segun los requerimientos \"496885\"",
+            "result": {
+              "duration": 38404000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "cambio-precio-contrato;cuando-se-le-cambia-el-precio-al-contrato;;6",
+        "keyword": "Scenario Outline",
+        "line": 15,
+        "name": "Cuando se le cambia el precio al contrato",
+        "steps": [
+          {
+            "keyword": "Given ",
+            "line": 6,
+            "name": "Un usuario se loggea en Armonix \"efvelasquez\"\"3fv3l@as2021\"",
+            "result": {
+              "duration": 25000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 7,
+            "name": "Un usuario abre el catalogo Transacciones y busca por el numero de contrato \"811290\"",
+            "result": {
+              "duration": 10774000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "Then ",
+            "line": 8,
+            "name": "Un usuario procede al cambio del precio del contrato segun los requerimientos \"811290\"",
+            "result": {
+              "duration": 16677000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "cambio-precio-contrato;cuando-se-le-cambia-el-precio-al-contrato;;7",
+        "keyword": "Scenario Outline",
+        "line": 16,
+        "name": "Cuando se le cambia el precio al contrato",
+        "steps": [
+          {
+            "keyword": "Given ",
+            "line": 6,
+            "name": "Un usuario se loggea en Armonix \"efvelasquez\"\"3fv3l@as2021\"",
+            "result": {
+              "duration": 37000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 7,
+            "name": "Un usuario abre el catalogo Transacciones y busca por el numero de contrato \"131030\"",
+            "result": {
+              "duration": 10410000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "Then ",
+            "line": 8,
+            "name": "Un usuario procede al cambio del precio del contrato segun los requerimientos \"131030\"",
+            "result": {
+              "duration": 17103000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "cambio-precio-contrato;cuando-se-le-cambia-el-precio-al-contrato;;8",
+        "keyword": "Scenario Outline",
+        "line": 17,
+        "name": "Cuando se le cambia el precio al contrato",
+        "steps": [
+          {
+            "keyword": "Given ",
+            "line": 6,
+            "name": "Un usuario se loggea en Armonix \"efvelasquez\"\"3fv3l@as2021\"",
+            "result": {
+              "duration": 30000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "When ",
+            "line": 7,
+            "name": "Un usuario abre el catalogo Transacciones y busca por el numero de contrato \"2001237\"",
+            "result": {
+              "duration": 10772000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "Then ",
+            "line": 8,
+            "name": "Un usuario procede al cambio del precio del contrato segun los requerimientos \"2001237\"",
+            "result": {
+              "duration": 37528000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "cambio-precio-contrato",
+    "keyword": "Feature",
+    "line": 1,
+    "name": "Cambio Precio Contrato",
+    "uri": "cypress\\e2e\\features\\cambio_precio_contrato.feature"
+  },
+  {
+    "description": "    Feature Login page will work depending on the user credentials.",
+    "elements": [
+      {
+        "description": "",
+        "keyword": "Background",
+        "line": 5,
+        "name": "",
+        "steps": [
+          {
+            "keyword": "Given ",
+            "line": 6,
+            "name": "Un usuario abre la página web",
+            "result": {
+              "duration": 25793000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          }
+        ],
+        "type": "background"
+      },
+      {
+        "description": "",
+        "id": "login-a-la-página;login-credenciales-incorrectas;;2",
+        "keyword": "Scenario Outline",
+        "line": 14,
+        "name": "Login Credenciales Incorrectas",
+        "steps": [
+          {
+            "keyword": "When ",
+            "line": 9,
+            "name": "Un usuario proporciona credenciales incorrectas \"testName\"\"secret_sauce\"",
+            "result": {
+              "duration": 3799000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "And ",
+            "line": 10,
+            "name": "Un usuario hace click en el botón de inicio de sesión",
+            "result": {
+              "duration": 1602000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "Then ",
+            "line": 11,
+            "name": "Se muestra el mensaje de error \"Usuario o contraseña incorrecto\"",
+            "result": {
+              "duration": 1520000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "keyword": "Background",
+        "line": 5,
+        "name": "",
+        "steps": [
+          {
+            "keyword": "Given ",
+            "line": 6,
+            "name": "Un usuario abre la página web",
+            "result": {
+              "duration": 2024000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          }
+        ],
+        "type": "background"
+      },
+      {
+        "description": "",
+        "id": "login-a-la-página;login-credenciales-incorrectas;;3",
+        "keyword": "Scenario Outline",
+        "line": 15,
+        "name": "Login Credenciales Incorrectas",
+        "steps": [
+          {
+            "keyword": "When ",
+            "line": 9,
+            "name": "Un usuario proporciona credenciales incorrectas \"edmartinez\"\"vimeworks2022\"",
+            "result": {
+              "duration": 3796000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "And ",
+            "line": 10,
+            "name": "Un usuario hace click en el botón de inicio de sesión",
+            "result": {
+              "duration": 1614000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "Then ",
+            "line": 11,
+            "name": "Se muestra el mensaje de error \"Usuario o contraseña incorrecto\"",
+            "result": {
+              "duration": 1519000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "keyword": "Background",
+        "line": 5,
+        "name": "",
+        "steps": [
+          {
+            "keyword": "Given ",
+            "line": 6,
+            "name": "Un usuario abre la página web",
+            "result": {
+              "duration": 2181000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          }
+        ],
+        "type": "background"
+      },
+      {
+        "description": "",
+        "id": "login-a-la-página;login-credenciales-incorrectas;;4",
+        "keyword": "Scenario Outline",
+        "line": 16,
+        "name": "Login Credenciales Incorrectas",
+        "steps": [
+          {
+            "keyword": "When ",
+            "line": 9,
+            "name": "Un usuario proporciona credenciales incorrectas \"standard_user\"\"testPassword\"",
+            "result": {
+              "duration": 3802000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "And ",
+            "line": 10,
+            "name": "Un usuario hace click en el botón de inicio de sesión",
+            "result": {
+              "duration": 1601000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "Then ",
+            "line": 11,
+            "name": "Se muestra el mensaje de error \"Usuario o contraseña incorrecto\"",
+            "result": {
+              "duration": 1517000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "keyword": "Background",
+        "line": 5,
+        "name": "",
+        "steps": [
+          {
+            "keyword": "Given ",
+            "line": 6,
+            "name": "Un usuario abre la página web",
+            "result": {
+              "duration": 1794000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          }
+        ],
+        "type": "background"
+      },
+      {
+        "description": "",
+        "id": "login-a-la-página;login-con-éxito",
+        "keyword": "Scenario",
+        "line": 18,
+        "name": "Login con éxito",
+        "steps": [
+          {
+            "keyword": "When ",
+            "line": 19,
+            "name": "Un usuario ingresa el nombre de usuario \"EDPALADINES\"",
+            "result": {
+              "duration": 1887000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "And ",
+            "line": 20,
+            "name": "Un usuario ingresa la contraseña \"Dp4l4dines_\"",
+            "result": {
+              "duration": 1887000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "And ",
+            "line": 21,
+            "name": "Un usuario hace click en el botón de inicio de sesión",
+            "result": {
+              "duration": 1602000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          },
+          {
+            "keyword": "Then ",
+            "line": 22,
+            "name": "El título de la página contendrá \"Saludsa | Armonix\"",
+            "result": {
+              "duration": 1511000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "not available:0"
+            }
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "login-a-la-página",
+    "keyword": "Feature",
+    "line": 1,
+    "name": "Login a la página",
+    "uri": "cypress\\e2e\\features\\login.feature"
+  }
+]
