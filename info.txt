@@ -1,6 +1,8 @@
-1.-npm install cypress --save-dev --> Instalación
+1.-npm install cypress --save-dev ^10.10.0--> Instalación
 2.-npm install -g npx --> 
-3.-npm i -D cypress @bahmutov/cypress-esbuild-preprocessor esbuild
-4.-npm install @badeball/cypress-cucumber-preprocessor --save-dev
-5.-npm install multiple-cucumber-html-reporter
-6.-node .\cucumber-html-report.js
+3.-npm install -D cypress-plugin-tab
+4.-npm install -D cypress-xpath
+5.-npm i -D cypress @bahmutov/cypress-esbuild-preprocessor ^2.1.5 esbuild ^0.14.54
+6.-npm install @badeball/cypress-cucumber-preprocessor --save-dev ^12.2.0
+7.-npm install multiple-cucumber-html-reporter ^2.0.0
+	7.1.-node .\cucumber-html-report.js -->Ejecutar en el terminal para generar el HTML del reporte
